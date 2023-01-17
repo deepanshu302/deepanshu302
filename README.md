@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Yadav</h1>
-<h3 align="center">I am looking for roles(Full-time/Internship) in smart contract development/security.</h3>
+<h3 align="center">I am looking for roles(Full-time/Internship) roles in development/security.</h3>
 
 - 🌱 I’m currently learning **Smart Contract Auditing**
 
